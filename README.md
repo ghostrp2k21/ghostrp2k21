@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ghostrp2k21
+- 👀 I’m interested FiveM
+- 🌱 I’m currently learning C#
